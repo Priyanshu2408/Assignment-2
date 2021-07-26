@@ -1,0 +1,25 @@
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    padding: 0%;
+    margin: 0%;
+}
+.title span{
+    color: rgb(4, 79, 82);
+    line-height: 3rem;
+    font-weight: 900;
+    font-size: 2em;
+    position:fixed;
+    background-color:lightskyblue;
+  }
+  dt{
+    background-color: aqua;
+    height: 4vh;
+    position: sticky;
+    top:45px;
+    font-weight: bold;
+}
+dt span{
+    color:saddlebrown;
+    font-size: 1.5rem;
+  }
